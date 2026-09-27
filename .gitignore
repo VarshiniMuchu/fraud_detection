@@ -1,0 +1,25 @@
+# Dataset
+data/*.csv
+
+# Generated models
+models/
+
+# Generated outputs
+output/
+
+# CatBoost generated files
+catboost_info/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+activate.ps1
+
+# VS Code
+.vscode/
+
